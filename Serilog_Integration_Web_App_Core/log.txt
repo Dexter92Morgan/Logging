@@ -1,0 +1,260 @@
+{Timestanp : yyyy-MM-dd} ES-SYS-802 1   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 1   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 1   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 1   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 1   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 1   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 1   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 10   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 7   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 9   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 7   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 10   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 7   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 8   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 10   
+{Timestanp : yyyy-MM-dd} ES-SYS-802 2   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 2   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 8   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4   
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Application started  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 User profile is available. Using '"C:\Users\preetham.c\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Now listening on: "https://localhost:5001"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Now listening on: "http://localhost:5000"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Application started. Press Ctrl+C to shut down.  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Hosting environment: "Development"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Content root path: "C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request starting HTTP/2 GET https://localhost:5001/    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executing endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Route matched with "{page = \"/Index\"}". Executing page "/Index"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executing handler method "Serilog_Integration_Web_App_Core.Pages.IndexModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed page "/Index" in 106.0018ms  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request finished in 249.2099ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 8 Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request starting HTTP/2 GET https://localhost:5001/css/site.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\css\site.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request finished in 14.0696ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=dLGP40S79Xnx6GqUthRF6NWvjvhQ1nOvdVSwaNcgG18    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\js\site.js"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request finished in 19.5105ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 8 Sending file. Request path: '"/lib/jquery/dist/jquery.min.js"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\jquery\dist\jquery.min.js"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 8 Request finished in 46.6765ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Request finished in 46.0222ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request finished in 53.5718ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 2 Application is shutting down...  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Application started  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 User profile is available. Using '"C:\Users\preetham.c\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Now listening on: "https://localhost:5001"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Now listening on: "http://localhost:5000"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Application started. Press Ctrl+C to shut down.  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Hosting environment: "Development"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Content root path: "C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request starting HTTP/2 GET https://localhost:5001/    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executing endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Route matched with "{page = \"/Index\"}". Executing page "/Index"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executing handler method "Serilog_Integration_Web_App_Core.Pages.IndexModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed page "/Index" in 100.8848ms  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Executed endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request finished in 258.716ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Request starting HTTP/2 GET https://localhost:5001/css/site.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\css\site.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Request finished in 19.8258ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=dLGP40S79Xnx6GqUthRF6NWvjvhQ1nOvdVSwaNcgG18    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Sending file. Request path: '"/js/site.js"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\js\site.js"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Sending file. Request path: '"/lib/jquery/dist/jquery.min.js"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\jquery\dist\jquery.min.js"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Request finished in 29.5977ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request finished in 51.5399ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Request finished in 56.2413ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request finished in 63.112ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request starting HTTP/2 GET https://localhost:5001/Privacy    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Executing endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Route matched with "{page = \"/Privacy\"}". Executing page "/Privacy"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Executing handler method "Serilog_Integration_Web_App_Core.Pages.PrivacyModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Executed page "/Privacy" in 15.2791ms  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Executed endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request finished in 47.9549ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Request starting HTTP/2 GET https://localhost:5001/css/site.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\css\site.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request finished in 25.9575ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 9 Request finished in 28.6576ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Request starting HTTP/2 GET https://localhost:5001/Privacy    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Executing endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Route matched with "{page = \"/Privacy\"}". Executing page "/Privacy"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Executing handler method "Serilog_Integration_Web_App_Core.Pages.PrivacyModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Executed page "/Privacy" in 7.5267ms  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Executed endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 10 Request finished in 27.1976ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request starting HTTP/2 GET https://localhost:5001/css/site.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 4 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Sending file. Request path: '"/css/site.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\css\site.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 5 Request finished in 12.6267ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Request finished in 25.2747ms 200 text/css  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Request starting HTTP/2 GET https://localhost:5001/Privacy    
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Executing endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Route matched with "{page = \"/Privacy\"}". Executing page "/Privacy"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Executing handler method "Serilog_Integration_Web_App_Core.Pages.PrivacyModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Executed page "/Privacy" in 12.4707ms  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Executed endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 15 Request finished in 27.2437ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 2 Application is shutting down...  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Application started  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 User profile is available. Using '"C:\Users\preetham.c\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Now listening on: "https://localhost:5001"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Now listening on: "http://localhost:5000"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Application started. Press Ctrl+C to shut down.  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Hosting environment: "Development"  
+{Timestanp : yyyy-mm-dd} ES-SYS-802 1 Content root path: "C:\Users\preetham.c\source\repos\Logging\Serilog_Integration_Web_App_Core"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 1 Application started  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 1 User profile is available. Using '"C:\Users\Lenovo\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 1 Now listening on: "https://localhost:5001"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 1 Now listening on: "http://localhost:5000"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 1 Application started. Press Ctrl+C to shut down.  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 1 Hosting environment: "Development"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 1 Content root path: "E:\Preetham\new\ET\New folder\repos\Logging\Serilog_Integration_Web_App_Core"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Request starting HTTP/2 GET https://localhost:5001/    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executing endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Route matched with "{page = \"/Index\"}". Executing page "/Index"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executing handler method "Serilog_Integration_Web_App_Core.Pages.IndexModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed page "/Index" in 175.7666ms  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Request finished in 440.7465ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Request starting HTTP/2 GET https://localhost:5001/css/site.css    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 8 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/css/bootstrap.min.css    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 10 Request starting HTTP/2 GET https://localhost:5001/lib/jquery/dist/jquery.min.js    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Request starting HTTP/2 GET https://localhost:5001/lib/bootstrap/dist/js/bootstrap.bundle.min.js    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Sending file. Request path: '"/css/site.css"'. Physical path: '"E:\Preetham\new\ET\New folder\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\css\site.css"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Request finished in 40.6195ms 200 text/css  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Request starting HTTP/2 GET https://localhost:5001/js/site.js?v=dLGP40S79Xnx6GqUthRF6NWvjvhQ1nOvdVSwaNcgG18    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Sending file. Request path: '"/js/site.js"'. Physical path: '"E:\Preetham\new\ET\New folder\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\js\site.js"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Request finished in 20.706ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Sending file. Request path: '"/lib/bootstrap/dist/css/bootstrap.min.css"'. Physical path: '"E:\Preetham\new\ET\New folder\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Request finished in 122.8177ms 200 text/css  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Sending file. Request path: '"/lib/bootstrap/dist/js/bootstrap.bundle.min.js"'. Physical path: '"E:\Preetham\new\ET\New folder\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Request finished in 165.0706ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 10 Sending file. Request path: '"/lib/jquery/dist/jquery.min.js"'. Physical path: '"E:\Preetham\new\ET\New folder\repos\Logging\Serilog_Integration_Web_App_Core\wwwroot\lib\jquery\dist\jquery.min.js"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 10 Request finished in 179.404ms 200 application/javascript  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Request starting HTTP/2 GET https://localhost:5001/    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Executing endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Route matched with "{page = \"/Index\"}". Executing page "/Index"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Executing handler method "Serilog_Integration_Web_App_Core.Pages.IndexModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Executed page "/Index" in 8.8042ms  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Executed endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 9 Request finished in 27.7635ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Request starting HTTP/2 GET https://localhost:5001/    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executing endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Route matched with "{page = \"/Index\"}". Executing page "/Index"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executing handler method "Serilog_Integration_Web_App_Core.Pages.IndexModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed page "/Index" in 11.9584ms  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Request finished in 30.4037ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Request starting HTTP/2 GET https://localhost:5001/Privacy    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executing endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Route matched with "{page = \"/Privacy\"}". Executing page "/Privacy"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executing handler method "Serilog_Integration_Web_App_Core.Pages.PrivacyModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed page "/Privacy" in 13.7845ms  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Executed endpoint '"/Privacy"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 7 Request finished in 30.663ms 200 text/html; charset=utf-8  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Request starting HTTP/2 GET https://localhost:5001/    
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executing endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Route matched with "{page = \"/Index\"}". Executing page "/Index"  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executing handler method "Serilog_Integration_Web_App_Core.Pages.IndexModel.OnGet" - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed handler method "OnGet", returned result "".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executing an implicit handler method - ModelState is Valid  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed an implicit handler method, returned result "Microsoft.AspNetCore.Mvc.RazorPages.PageResult".  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed page "/Index" in 6.3697ms  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Executed endpoint '"/Index"'  
+{Timestanp : yyyy-mm-dd} DESKTOP-BS0UBFR 4 Request finished in 18.8384ms 200 text/html; charset=utf-8  
